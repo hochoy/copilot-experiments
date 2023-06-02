@@ -1,0 +1,24 @@
+{
+  "name": "copilot-experiments",
+  "version": "1.0.0",
+  "description": "copilot-experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hochoy/copilot-experiments.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hochoy/copilot-experiments/issues"
+  },
+  "homepage": "https://github.com/hochoy/copilot-experiments#readme",
+  "dependencies": {
+    "acorn": "^8.8.2",
+    "acorn-walk": "^8.2.0",
+    "escodegen": "^2.0.0"
+  }
+}
